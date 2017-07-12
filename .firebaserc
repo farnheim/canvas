@@ -2,4 +2,7 @@
   "projects": {
     "default": "test-b9143"
   }
+  "test": {
+  }
+
 }
